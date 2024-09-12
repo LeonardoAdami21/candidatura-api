@@ -1,0 +1,9 @@
+{
+  "name": "candidatura-api",
+  "version": "1.0.0",
+  "description": "Api para se candidatar a vagas de emprego e estagio",
+  "main": "server.js",
+  "author": "Leonardo Adami",
+  "license": "MIT",
+  "private": false
+}
