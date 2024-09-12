@@ -1,0 +1,10 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Candidatura API",
+        "description": "API para se candidatar a vagas de emprego e estagio",
+        "version": "1.0.0"
+    },
+    "tags": [],
+    "paths": {}
+}
